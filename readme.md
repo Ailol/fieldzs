@@ -1,8 +1,8 @@
 # Here is why angular is so "pushed down"
-
-
+```
 it literally cleans your d'term after touching react :) 
----
+```
+
 ###  react in essence:
 ---
 react  - a alphabeta soup of styles and all(love the field tho, but the main framework? builkd to ruin you.)
