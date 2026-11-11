@@ -2,13 +2,16 @@
 
 
 it literally cleans your d'term after touching react :) 
-
-####  react in essence:
+---
+###  react in essence:
+---
 react  - a alphabeta soup of styles and all(love the field tho, but the main framework? builkd to ruin you.)
 angular? here, do i need to say more:
 <br /> <br/>
 <br /> <br/>
-# Angular in essence
+---
+### Angular in essence
+---
 angular tho:
  - Html file(only html)
  - css file(only css)
