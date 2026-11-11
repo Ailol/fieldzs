@@ -6,6 +6,9 @@ it literally cleans your d'term after touching react :)
 
 react  - a alphabeta soup of styles and all(love the field tho, but the main framework? builkd to ruin you.)
 angular? here, do i need to say more:
+<br /> <br/>
+<br /> <br/>
+angular tho:
  - Html file(only html)
  - css file(only css)
  - .ts ( only ts, or js, or c soon etc <3)
